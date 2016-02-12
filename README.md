@@ -21,7 +21,4 @@ In addition with the data we collect for the above we can return other informati
 * All addresses in a census tract
 * Census tracts that are in a neighborhood
 
-
-Please see the [Wiki](https://github.com/codeforkansascity/address-api/wiki) for more information
-
 Having issue with CORS
